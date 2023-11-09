@@ -46,7 +46,7 @@ Ensemble methods that combine the predictions from both LSTM and ARIMA models.
 We encourage experimentation with different model architectures, feature sets, and tuning strategies to enhance the model's predictive capabilities.
 
                              Evaluation
-Models are evaluated using RMSE, alongside visual comparison of predictions with actual stock prices. Detailed evaluation results are provided for both pre- and post-tuning performance.
+Models are evaluated using RMSE,for lstm was 5.92 why Arima was 9.46,This project show LSTM performs better than Arima. alongside visual comparison of predictions with actual stock prices. Detailed evaluation results are provided for both pre- and post-tuning performance.
 
                             Contributions
 We value contributions and encourage the community to propose enhancements, report bugs, or submit pull requests. Please read through CONTRIBUTING.md for guidelines on the contribution.
